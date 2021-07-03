@@ -1,3 +1,5 @@
+#                                                             [The Dice Game] `https://dice-game-bice.vercel.app/`
+
 # Game Rules:-
 
 ## Select any number
