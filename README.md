@@ -2,5 +2,5 @@
 
 ## Select any number
 ## Click on dice image to roll it
-## Select number is equal to obtained dice result then you will get same point of dice
-## if You are Wrong Score will be deducted by 2 points
+## If selected number is equal to the number obtained on dice then your score will be incremented by that number.
+## If It not matches then you score will be decremented by 2.
